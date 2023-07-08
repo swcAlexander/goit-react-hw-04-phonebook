@@ -1,0 +1,12 @@
+.contactList {
+  width: 320px;
+  height: auto;
+  background: #fff;
+  border-radius: 10px;
+  margin: 5% auto;
+  padding: 20px;
+  box-shadow: 2px 2px 4px 0px #000000;
+}
+.contactListContainer {
+  display: flex;
+}

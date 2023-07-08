@@ -1,0 +1,37 @@
+.contactForm {
+  width: 320px;
+  height: 250px;
+  background: #fff;
+  border-radius: 10px;
+  margin: 5% auto;
+  padding: 20px;
+  box-shadow: 2px 2px 4px 0px #000000;
+}
+
+.contactFormHeader {
+  margin: 0;
+  background-color: #282830;
+  border-radius: 10px 10px 0 0;
+  color: #fff;
+  font-size: 14px;
+  padding: 20px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.contactInput {
+  border: 1px solid #dcdcdc;
+  padding: 12px 10px;
+  width: 298px;
+  border-radius: 5px 5px 0 0;
+}
+
+.contactButton {
+  background: #1dabb8;
+  border-radius: 5px;
+  color: #fff;
+  float: right;
+  font-weight: bold;
+  margin-right: 0;
+  margin-top: 15px;
+  padding: 12px 20px;
+}

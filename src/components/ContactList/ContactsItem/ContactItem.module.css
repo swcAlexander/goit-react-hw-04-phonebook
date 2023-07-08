@@ -1,0 +1,11 @@
+.contactItem {
+  display: flex;
+}
+.contactName {
+  width: 150px;
+  margin-right: 20px;
+}
+.contactNumber {
+  margin-left: auto;
+  width: 100px;
+}
